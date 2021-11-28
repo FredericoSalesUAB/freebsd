@@ -9,4 +9,4 @@ portsnap fetch;
 portsnap extract;
 clear;
 echo -e "Done with update!";
-pkg install -y bash bash-completion bat curl wget git p7zip nmap mtr htop py38-ranger py38-pip w3m-img font-awesome arp-scan arpwatch nerd-fonts bastille postgresql13-client mysql57-client sqlite3;
+pkg install -y bash bash-completion bat curl wget git p7zip nmap mtr htop py38-ranger py38-pip w3m-img font-awesome arp-scan arpwatch nerd-fonts vim doas bastille postgresql12-client postgresql12-contrib mysql57-client sqlite3;
