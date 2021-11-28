@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+#
+clear;
+pkg install -y php74 php74-cli php74-mysql php74-pgsql php74-sqlite3 sqlite3 php74-mbstring php74-gd php74-bcmath php74-bz2 php74-composer-ca-bundle php74-crypt-gpg php74-date php74-curl php74-dev php74-log php74-lua php74-luasandbox php74-mail php74-markdown php74-memcache php74-parsedown php74-pear php74-http php74-imap php74-json php74-soap php74-tcpdf php74-tokenizer php74-uuid php74-xml php74-xmlrpc php74-ldap php74-imagick php74-yaml php74-intl php74-zip mod_php74

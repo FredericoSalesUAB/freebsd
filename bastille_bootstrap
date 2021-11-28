@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+#
+clear;
+bastille bootstrap 13.0-RELEASE;

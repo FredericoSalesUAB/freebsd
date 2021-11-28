@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+clear;
+freebsd-update fetch;
+freebsd-update install;
+pkg bootstrap;
+pkg update && pkg upgrade install;
+portsnap fetch;
+portsnap extract;
+clear;
+echo -e "Done with update!";
+pkg install -y bash bash-completion bat curl wget git p7zip nmap mtr htop py38-ranger py38-pip w3m-img font-awesome arp-scan arpwatch nerd-fonts bastille postgresql13-client mysql57-client sqlite3;

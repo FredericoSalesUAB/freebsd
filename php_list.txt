@@ -1,0 +1,731 @@
+ZendFramework-php74-2.4.13     Framework for developing PHP web applications
+adodb5-php74-5.21.2            Database library for PHP
+ampache-php74-5.0.0            Web-based Audio file manager
+arcanist-lib-php74-20210113_1  Libraries for the command line interface for Phabricator
+arcanist-php74-20210113_1      Command line interface for Phabricator
+aws-sdk-php74-3.185.15         PHP interface for Amazon Web Services (AWS)
+bacula-web-php74-8.4.3         Bacula-web provides a summarized output of Bacula jobs
+davical-php74-1.1.10           Simple CalDAV server using a postgres backend
+drush-php74-8.3.3              Drupal command line and scripting interface
+hiawatha-monitor-php74-1.6     Monitoring tool for the Hiawatha webserver
+icingaweb2-module-businessprocess-php74-2.2.0_2 Manage Business Processes in Icinga Web 2
+icingaweb2-module-cube-php74-1.1.1 Drill-down view for Icinga web 2 based on custom variables
+icingaweb2-module-director-php74-1.6.2_2 Configuration frontend for Icinga 2, integrated automation
+icingaweb2-module-elasticsearch-php74-0.9.0_3 Integrate Elasticsearch into Icinga Web 2
+icingaweb2-module-fileshipper-php74-1.2.0 Import CSV, JSON, XML and YAML files for the Icinga Director
+icingaweb2-module-generictts-php74-2.0.0_3 Generic ticket system integration into Icinga web 2
+icingaweb2-module-grafana-php74-1.4.2 Add Grafana graphs into Icinga Web 2 to display performance metrics
+icingaweb2-module-graphite-php74-1.1.0_3 Graphite integration into Icinga Web 2
+icingaweb2-module-idoreports-php74-0.9.0_2 Host and service availability reports for Icinga
+icingaweb2-module-ipl-php74-0.5.0 Icinga PHP library
+icingaweb2-module-map-php74-1.1.0_3 Display hosts on OpenStreetMap
+icingaweb2-module-pdfexport-php74-0.9.0_2 Icinga PDF Export
+icingaweb2-module-reactbundle-php74-0.9.0 Icinga Web 2 ReactPHP-based 3rd party libraries
+icingaweb2-module-reporting-php74-0.9.2_1 Reporting module for Icinga Web 2
+icingaweb2-module-vsphere-php74-1.1.1 Automated import of your VMs and Physical Host from VMware Sphere
+icingaweb2-module-x509-php74-1.0.0.8_3 Automates certificate monitoring with Icinga
+icingaweb2-php74-2.8.2_1       Next generation web interface for Icinga 1 and 2
+ioncube-php74-10.4.1           Loader for ionCube-encoded PHP files
+klg-php74-1.5_1                PHP-based looking glass for Cisco, Juniper and Quagga/Zebra routers
+librespeed-php74-5.2.4_1       Lightweight selfhosted speedtest
+loganalyzer-php74-4.1.12       Web Syslog and IT Event Viewer
+mailzu-php74-0.8.r3_8          Simple and intuitive web interface to manage amavisd-new quarantine
+mantis-php74-2.25.2,1          Bug tracking system written in PHP
+mediawiki131-php74-1.31.16     Wiki engine used by Wikipedia
+mediawiki135-php74-1.35.4      Wiki engine used by Wikipedia
+mediawiki136-php74-1.36.2      Wiki engine used by Wikipedia
+mod_php74-7.4.26               PHP Scripting Language
+moodle310-php74-3.10.7         Course management system based on social constructionism
+moodle311-php74-3.11.4         Course management system based on social constructionism
+moodle39-php74-3.9.10          Course management system based on social constructionism
+nextcloud-appointments-php74-1.10.2 Appointments app for Nextcloud
+nextcloud-calendar-php74-2.3.4 Calendar app for Nextcloud
+nextcloud-contacts-php74-4.0.3 Contacts app for Nextcloud
+nextcloud-deck-php74-1.5.3     Kanban app for Nextcloud
+nextcloud-end_to_end_encryption-php74-1.7.1 End-to-End Encryption app for Nextcloud
+nextcloud-forms-php74-2.3.0    Forms app for Nextcloud
+nextcloud-groupfolders-php74-10.0.0 Groupfolders app for Nextcloud
+nextcloud-mail-php74-1.10.5    Mail app for Nextcloud
+nextcloud-notes-php74-4.1.1    Notes app for Nextcloud
+nextcloud-passman-php74-2.3.1334 Full featured password manager for Nextcloud
+nextcloud-php74-22.2.0         Personal cloud which runs on your own server
+nextcloud-talk-php74-12.1.2    Online meeting app for Nextcloud
+nextcloud-tasks-php74-0.14.2   Tasks app for Nextcloud
+nextcloud-twofactor_totp-php74-6.1.0 TOTP multi-factor auth app for Nextcloud
+nextcloud-twofactor_u2f-php74-6.2.0 U2F multi-factor auth app for Nextcloud
+nextcloud-twofactor_webauthn-php74-0.2.10 U2F webauthn app for Nextcloud
+observium-php74-0.19.8_2       Autodiscovering PHP/MySQL/SNMP based network monitoring
+osticket-php74-1.15.4          Widely-used open source support ticket system
+owncloud-php74-10.8.0          Personal cloud which runs on your own server
+phabricator-php74-20201119_2   Open source, software engineering platform
+phoronix-test-suite-php74-10.4.0 Phoronix Benchmarking Suite
+php74-7.4.26                   PHP Scripting Language
+php74-Ice37-3.7.2_1            Modern alternative to object middleware such as CORBA/COM/DCOM/COM+
+php74-aphpbreakdown-2.2.2      Code-Analyzer for PHP for Compatibility Check-UP
+php74-aphpunit-2.0             Testing framework for unit tests
+php74-bcmath-7.4.26            The bcmath shared extension for php
+php74-brotli-0.13.1            Brotli extension for PHP
+php74-bsdconv-11.6.0           PHP wrapper for bsdconv
+php74-bz2-7.4.26               The bz2 shared extension for php
+php74-calendar-7.4.26          The calendar shared extension for php
+php74-composer-1.10.22         Dependency Manager for PHP
+php74-composer2-2.1.8          Dependency Manager for PHP, version 2.x
+php74-ctype-7.4.26             The ctype shared extension for php
+php74-curl-7.4.26              The curl shared extension for php
+php74-dba-7.4.26               The dba shared extension for php
+php74-dddbl-2.0.1              Definition Driven Database Layer for PHP
+php74-deployer-6.4.3           Deployment tool for PHP
+php74-dom-7.4.26               The dom shared extension for php
+php74-enchant-7.4.26           The enchant shared extension for php
+php74-exif-7.4.26              The exif shared extension for php
+php74-extensions-1.0           "meta-port" to install PHP extensions
+php74-facedetect-1.1_11        Face detection extension for PHP using OpenCV library
+php74-fastdfs-6.0.6            PHP module for accessing a FastDFS cluster
+php74-ffi-7.4.26               The ffi shared extension for php
+php74-fileinfo-7.4.26          The fileinfo shared extension for php
+php74-filter-7.4.26            The filter shared extension for php
+php74-ftp-7.4.26               The ftp shared extension for php
+php74-gd-7.4.26                The gd shared extension for php
+php74-geos-1.0.0               PHP bindings for GEOS
+php74-gettext-7.4.26           The gettext shared extension for php
+php74-gmp-7.4.26               The gmp shared extension for php
+php74-horde-5.2.23             Horde Application Framework
+php74-horde-ansel-3.0.10       Horde Photo Management and Web Gallery
+php74-horde-content-2.0.6      Horde tagging application
+php74-horde-gollem-3.0.13      Horde Web-based File Manager
+php74-horde-groupware-5.2.22   Horde Groupware
+php74-horde-imp-6.2.27         Horde web based webmail system
+php74-horde-ingo-3.2.16        Horde email filter rules manager
+php74-horde-kronolith-4.2.29   Horde web based calendar
+php74-horde-mnemo-4.2.14_1     Horde web based notes manager
+php74-horde-nag-4.2.19         Horde web based task list manager
+php74-horde-passwd-5.0.7       Horde password changing application
+php74-horde-timeobjects-2.1.4  Horde timeobjects application
+php74-horde-trean-1.1.10       Horde Bookmark Manager
+php74-horde-turba-4.2.25       Horde web based address book
+php74-horde-webmail-5.2.22     Horde Groupware Webmail Edition
+php74-horde-whups-3.0.12       Horde bug tracking/ticketing system
+php74-horde-wicked-2.0.8       Horde Wiki Application
+php74-iconv-7.4.26             The iconv shared extension for php
+php74-imap-7.4.26              The imap shared extension for php
+php74-intl-7.4.26              The intl shared extension for php
+php74-json-7.4.26              The json shared extension for php
+php74-kanboard-1.2.19          Simple visual task board software
+php74-ldap-7.4.26              The ldap shared extension for php
+php74-libawl-0.62              Andrew.s Web Libraries - PHP Utility Libraries
+php74-lz4-0.4.1                LZ4 extension for PHP
+php74-matomo-4.2.1             Open Source Web Analytics Software Program
+php74-maxminddb-1.6.0          MaxMind DB Reader extension for PHP
+php74-mbstring-7.4.26          The mbstring shared extension for php
+php74-mysqli-7.4.26            The mysqli shared extension for php
+php74-odbc-7.4.26              The odbc shared extension for php
+php74-opcache-7.4.26           The opcache shared extension for php
+php74-opencc-0.0.0.20161110    OpenCC shared extension for php
+php74-openssl-7.4.26           The openssl shared extension for php
+php74-pHash-0.9.6_5            PHP extension for the pHash perceptual hash library
+php74-pcntl-7.4.26             The pcntl shared extension for php
+php74-pdo-7.4.26               The pdo shared extension for php
+php74-pdo_dblib-7.4.26         The pdo_dblib shared extension for php
+php74-pdo_firebird-7.4.26      The pdo_firebird shared extension for php
+php74-pdo_mysql-7.4.26         The pdo_mysql shared extension for php
+php74-pdo_odbc-7.4.26          The pdo_odbc shared extension for php
+php74-pdo_pgsql-7.4.26         The pdo_pgsql shared extension for php
+php74-pdo_sqlite-7.4.26        The pdo_sqlite shared extension for php
+php74-pear-1.10.12             PEAR framework for PHP
+php74-pear-Auth-1.6.4          PEAR class for creating an authentication system
+php74-pear-Auth_HTTP-2.1.8     PEAR HTTP authentication
+php74-pear-Auth_PrefManager-1.2.2 PEAR preferences management class
+php74-pear-Auth_RADIUS-1.1.0   PEAR wrapper classes for the RADIUS PECL
+php74-pear-Auth_SASL-1.1.0_1   PEAR abstraction of various SASL mechanism responses
+php74-pear-Auth_SASL2-0.2.0_1  Abstraction of various SASL mechanism responses
+php74-pear-Benchmark-1.2.9     Framework to benchmark PHP scripts or function calls
+php74-pear-Cache-1.5.6_1       PEAR framework for caching of arbitrary data
+php74-pear-Cache_Lite-1.8.3,1  Fast and Safe little cache system
+php74-pear-Config-1.10.12      Your configurations swiss-army knife
+php74-pear-Console_Color-1.0.3 PEAR use ANSI console colors
+php74-pear-Console_CommandLine-1.2.2 Full featured command line options and arguments parser
+php74-pear-Console_Getargs-1.4.0 PEAR command-line arguments parser
+php74-pear-Console_Table-1.3.1 Library that makes it easy to build console style tables
+php74-pear-Contact_Vcard_Build-1.1.2 PEAR class to build (create) and fetch vCard 2.1 and 3.0 text blocks
+php74-pear-Contact_Vcard_Parse-1.32.0 PEAR class to parse vCard 2.1 and 3.0 files
+php74-pear-Crypt_Blowfish-1.1.0.r2 PEAR class for blowfish encryption
+php74-pear-Crypt_CBC-1.0.1     Class to emulate Perl's Crypt::CBC module
+php74-pear-Crypt_CHAP-1.5.0    PEAR class for generating CHAP packets
+php74-pear-Crypt_DiffieHellman-0.2.6 PEAR class implementing Diffie-Hellman Key Exchange protocol for PHP5
+php74-pear-Crypt_GPG-1.6.6     GNU Privacy Guard (GPG)
+php74-pear-Crypt_HMAC2-1.0.0   Implementation of Hashed Message Authentication Code for PHP5
+php74-pear-Crypt_MicroID-0.1.0 PHP MicroID library
+php74-pear-Crypt_RC4-1.0.3     PEAR encryption class for RC4 encryption
+php74-pear-Crypt_RSA-1.2.1_1   PEAR class allows you to use two-key strong cryptography
+php74-pear-Crypt_XXTEA-0.9.0   PEAR XXTEA encryption algorithm
+php74-pear-DB-1.11.0,1         PEAR Database Abstraction Layer
+php74-pear-DBA-1.1.1           Berkely-style database abstraction class
+php74-pear-DBA_Relational-0.2.0_1 Berkely-style database abstraction class
+php74-pear-DB_DataObject-1.11.5_1 SQL Builder, Object Interface to Database Tables
+php74-pear-DB_DataObject_FormBuilder-1.0.2 Automatically build HTML_QuickForm objects using DB_DataObject
+php74-pear-DB_Pager-0.7.2      PEAR Database Abstraction Layer
+php74-pear-DB_QueryTool-1.1.2  PEAR OO-interface for easily retrieving and modifying data in a DB
+php74-pear-DB_Sqlite_Tools-0.1.7 Object-oriented interface to backup SQLite databases
+php74-pear-DB_Table-1.5.6_1,1  PEAR object-oriented interface to a database table
+php74-pear-DB_ldap-1.2.1       PEAR DB compliant interface to LDAP servers
+php74-pear-DB_ldap2-0.5.1_1    PEAR DB compliant interface to LDAP v2 and v3 database
+php74-pear-Date-1.4.7          Generic date/time handling class for PEAR
+php74-pear-Date_Holidays-0.21.8 PEAR driver based class to calculate holidays
+php74-pear-Date_Holidays_Austria-0.1.6 Driver based class to calculate holidays in Austria
+php74-pear-Date_Holidays_Brazil-0.1.2 Driver based class to calculate holidays in Brazil
+php74-pear-Date_Holidays_Denmark-0.1.3 Driver based class to calculate holidays in Denmark
+php74-pear-Date_Holidays_Discordian-0.1.1 Driver based class to calculate Discordian holidays
+php74-pear-Date_Holidays_EnglandWales-0.1.5 Driver based class to calculate holidays in England and Wales
+php74-pear-Date_Holidays_Germany-0.1.2_1 Driver based class to calculate holidays in Germany
+php74-pear-Date_Holidays_Iceland-0.1.2 Driver based class to calculate holidays in Iceland
+php74-pear-Date_Holidays_Ireland-0.1.3 Driver based class to calculate holidays in Ireland
+php74-pear-Date_Holidays_Italy-0.1.1 Driver based class to calculate holidays in Italy
+php74-pear-Date_Holidays_Japan-0.1.3 Driver based class to calculate holidays in Japan
+php74-pear-Date_Holidays_Netherlands-0.1.4 Driver based class to calculate holidays in the Netherlands
+php74-pear-Date_Holidays_Norway-0.1.2 Driver based class to calculate holidays in Norway
+php74-pear-Date_Holidays_PHPdotNet-0.1.2 Driver based class to calculate birthdays of members of PHP.net
+php74-pear-Date_Holidays_Romania-0.1.2 Driver based class to calculate holidays in Romania
+php74-pear-Date_Holidays_Slovenia-0.1.2 Driver based class to calculate holidays in Slovenia
+php74-pear-Date_Holidays_Sweden-0.1.3 Driver based class to calculate holidays in Sweden
+php74-pear-Date_Holidays_UNO-0.1.3 Driver based class to calculate holidays in the UNO
+php74-pear-Date_Holidays_USA-0.1.1_1 Driver based class to calculate holidays in the USA
+php74-pear-Date_Holidays_Ukraine-0.1.2 Driver based class to calculate holidays in the Ukraine
+php74-pear-Event_Dispatcher-1.1.0 PEAR dispatch notifications using PHP callbacks
+php74-pear-FSM-1.4.0           PEAR Finite State Machine
+php74-pear-File-1.4.1,2        PEAR common file and directory routines
+php74-pear-File_Archive-1.5.5  PEAR class to manipulate tar, gz, tgz, bz2, tbz, zip, ar (deb) files
+php74-pear-File_Bittorrent2-1.3.1 Decode and Encode data in Bittorrent format
+php74-pear-File_DNS-0.1.0      PEAR class to read and write RFC1033-style DNS Zonefiles
+php74-pear-File_Find-1.3.3     PEAR class that facilitates the search of filesystems
+php74-pear-File_Fortune-1.0.0_1 Interface for reading from and writing to fortune files
+php74-pear-File_Fstab-2.0.3    PEAR class to read and write fstab files
+php74-pear-File_Gettext-0.4.2  PEAR GNU Gettext file parser
+php74-pear-File_HtAccess-1.2.1 PEAR class to manipulate .htaccess files
+php74-pear-File_Iterator-3.0.5 PEAR FileIterator implementation
+php74-pear-File_MARC-1.4.1     Parse, modify, and create MARC records
+php74-pear-File_PDF-0.3.3      PEAR class to generate PDFs
+php74-pear-File_Passwd-1.1.7   PEAR class to manipulate many kinds of password files
+php74-pear-File_SMBPasswd-1.0.3 PEAR class for managing SAMBA style password files
+php74-pear-Games_Chess-1.0.1   PEAR methods for constructing and validating chess games in PGN
+php74-pear-HTML_AJAX-0.5.8     PHP and JavaScript AJAX library
+php74-pear-HTML_BBCodeParser-1.2.3 Parser to replace UBB style tags with their HTML equivalents
+php74-pear-HTML_CSS-1.5.4      PEAR class for generating CSS declarations
+php74-pear-HTML_Common-1.2.5   PEAR::HTML_Common is a base class for other HTML classes
+php74-pear-HTML_Common2-2.2.0  PEAR::HTML_Common2 is a base class for other HTML classes
+php74-pear-HTML_Crypt-1.3.4    Encrypts text which is later decoded using JavaScript on the client side
+php74-pear-HTML_Form-1.3.1     PEAR simple HTML form package
+php74-pear-HTML_Javascript-1.1.2 Provides an interface for creating simple JS scripts
+php74-pear-HTML_Page2-0.6.5    PEAR base class for XHTML page generation
+php74-pear-HTML_QuickForm-3.2.16 Provide methods for creating, validating, and processing HTML forms
+php74-pear-HTML_QuickForm2-2.2.2 PHP5 rewrite of the HTML_QuickForm package
+php74-pear-HTML_QuickForm_Controller-1.0.10 The add-on to HTML_QuickForm that allows building of multipage forms
+php74-pear-HTML_QuickForm_Livesearch-0.4.1 Element for PEAR::HTML_QuickForm to enable a suggest search
+php74-pear-HTML_QuickForm_Renderer_Tableless-0.6.2 Implementation of Tableless Renderer for HTML_QuickForm
+php74-pear-HTML_QuickForm_SelectFilter-1.0.0 Element for PEAR::HTML_QuickForm that defines dynamic filters
+php74-pear-HTML_QuickForm_advmultiselect-1.5.1 Element for PEAR::HTML_QuickForm that defines a 2 box multi-select
+php74-pear-HTML_Select-1.3.1   PEAR::HTML_Select is a class for generating HTML form select elements
+php74-pear-HTML_Select_Common-1.2.0_1 Some small PEAR classes to handle common <select> lists
+php74-pear-HTML_Table-1.8.4    Makes design of HTML tables easy, flexible, reusable, and efficient
+php74-pear-HTML_TagCloud-1.0.0 Generate TagCloud in HTML And Visualize Tags
+php74-pear-HTML_Template_Flexy-1.3.13 Extremely powerful Tokenizer driven Template engine
+php74-pear-HTML_Template_IT-1.3.1,1 Integrated Templates
+php74-pear-HTML_Template_PHPLIB-1.6.1 PEAR template API ported from PHPLIB
+php74-pear-HTML_Template_Sigma-1.3.0 Implementation of Integrated Templates API with template 'compilation' added
+php74-pear-HTML_TreeMenu-1.2.2 Provides an API to create a HTML tree
+php74-pear-HTTP-1.4.1          PEAR miscellaneous HTTP utilities
+php74-pear-HTTP_Client-1.2.1   PEAR classes for high level HTTP requests
+php74-pear-HTTP_Download-1.1.4 PEAR class to send HTTP downloads
+php74-pear-HTTP_FloodControl-0.1.1 PEAR classes to detect and protect from attempts to flood a site
+php74-pear-HTTP_Header-1.2.1   PEAR OO interface to modify and handle HTTP headers and status codes
+php74-pear-HTTP_Request-1.4.4  PEAR classes providing an easy way to perform HTTP requests
+php74-pear-HTTP_Request2-2.5.0,1 PEAR classes providing an easy way to perform HTTP requests
+php74-pear-HTTP_Server-0.4.1   HTTP server class
+php74-pear-HTTP_Session2-0.7.3 PHP5 Session Handler
+php74-pear-HTTP_Upload-0.9.1   Easy and secure management of files submitted via HTML Forms
+php74-pear-HTTP_WebDAV_Client-1.0.2 WebDAV Stream Wrapper Class
+php74-pear-HTTP_WebDAV_Server-1.0.0.r4 WebDAV Server Baseclass
+php74-pear-Horde_Crypt-2.7.12  Horde Cryptography API
+php74-pear-Horde_Crypt_Blowfish-1.1.3 Horde blowfish encryption for PHP string data
+php74-pear-Horde_Image-2.6.1   Horde Image API
+php74-pear-Horde_Imap_Client-2.29.18 Horde IMAP abstraction interface
+php74-pear-Horde_Kolab_Server-2.0.5 Horde library for manipulating the Kolab user database
+php74-pear-Horde_Log-2.3.0_1   Horde Logging library
+php74-pear-Horde_Mapi-1.0.10   Horde MAPI utility library
+php74-pear-Horde_Smtp-1.9.5    Horde SMTP Client
+php74-pear-Horde_Vfs-2.4.0     Horde Virtual File System API
+php74-pear-I18N-1.0.0          Internationalization package
+php74-pear-I18Nv2-0.11.4       PEAR Internationalization
+php74-pear-Image_3D-0.4.2      PEAR class allows the rendering of 3 dimensional objects
+php74-pear-Image_Barcode-1.1.3 PEAR class for barcode generation
+php74-pear-Image_Barcode2-0.2.3 PEAR class for barcode generation
+php74-pear-Image_Canvas-0.3.2_1 OO PEAR common interface to image drawing
+php74-pear-Image_Color-1.0.4   PEAR::Image_Color manages and handles color data and conversions
+php74-pear-Image_Graph-0.8.0   OO PEAR graph rendering package
+php74-pear-Image_GraphViz-1.3.0 Interface to AT&T's GraphViz tools
+php74-pear-Image_Transform-0.9.5 Standard interface to manipulate images using different libraries
+php74-pear-LiveUser-0.16.14_1  PEAR user authentication and permission management framework
+php74-pear-LiveUser_Admin-0.4.0_1 PEAR user authentication and permission management framework
+php74-pear-Log-1.13.3          PEAR logging utilities
+php74-pear-MDB-1.3.0           PEAR unified API for DB access, based on user meta data
+php74-pear-MDB2-2.5.0.b5       PEAR database abstraction layer
+php74-pear-MDB2_Driver_mysqli-1.5.0.b4 PEAR MySQL MDB2 driver
+php74-pear-MDB2_Driver_pgsql-1.5.0.b4_2 PEAR pgsql MDB2 driver
+php74-pear-MDB2_Schema-0.8.6   PEAR XML based database schema manager
+php74-pear-MDB_QueryTool-1.2.3 PEAR OO-interface for easily retrieving and modifying data in a DB
+php74-pear-MIME_Type-1.4.1     PEAR class for dealing with MIME types
+php74-pear-Mail-1.4.1,1        PEAR class that provides multiple interfaces for sending emails
+php74-pear-Mail_Mbox-0.6.3     PEAR Read and modify Unix MBOXes
+php74-pear-Mail_Mime-1.10.11,2 PEAR classes to create and decode MIME messages
+php74-pear-Mail_Queue-1.2.7_1  PEAR class for put mails in queue and send them later in background
+php74-pear-Mail_mimeDecode-1.5.6 Provides a class to decode mime messages
+php74-pear-Math_BigInteger-1.0.3 Pure-PHP arbitrary precision integer arithmetic library
+php74-pear-Math_Combinatorics-1.0.0,1 Package that produces combinations and permutations
+php74-pear-Math_Fraction-0.4.1 Classes that represent and manipulate fractions
+php74-pear-Net_CDDB-0.3.0      PEAR class that access and query CDDB audio-CD servers
+php74-pear-Net_CheckIP-1.2.2   Check the syntax of IPv4 addresses
+php74-pear-Net_Cyrus-0.3.1     PEAR class to administer Cyrus IMAP servers
+php74-pear-Net_DIME-1.0.2,1    The PEAR::Net_DIME class implements DIME encoding
+php74-pear-Net_DNS2-1.5.0      PHP Resolver library used to communicate with a DNS server
+php74-pear-Net_DNSBL-1.3.7_1   PEAR DNSBL Checker
+php74-pear-Net_Dict-1.0.7      PEAR interface to the DICT protocol
+php74-pear-Net_FTP-1.4.1       PEAR OO interface to the PHP FTP functions plus some additions
+php74-pear-Net_Finger-1.0.1    PEAR class that provides a tool for querying finger servers
+php74-pear-Net_Gearman-0.2.3_3 PHP interface to Gearman
+php74-pear-Net_Geo-1.0.5       Geographical locations based on Internet address
+php74-pear-Net_GeoIP-1.0.0.r1_1 Library to perform geo-location lookups of IP addresses
+php74-pear-Net_Growl-2.7.0     Send notifications to Growl
+php74-pear-Net_IDNA-0.8.1      Pear Punycode encoding and decoding package
+php74-pear-Net_IMAP-1.1.3      PEAR class that provides an implementation of the IMAP protocol
+php74-pear-Net_IPv4-1.3.5      IPv4 network calculations and validation
+php74-pear-Net_IPv6-1.3.0.b2_2 Check and validate IPv6 addresses
+php74-pear-Net_Ident-1.1.0     PEAR identification protocol implementation
+php74-pear-Net_LDAP-1.1.5_1    OO interface for searching and manipulating LDAP-entries
+php74-pear-Net_LDAP2-2.2.0,1   OO interface for searching and manipulating LDAP-entries
+php74-pear-Net_LMTP-1.0.2      PEAR implementation of the RFC2033 LMTP protocol
+php74-pear-Net_MAC-0.1.5_1     PEAR class that validates and formats MAC addresses
+php74-pear-Net_NNTP-1.5.2,1    PEAR implementation of the NNTP protocol
+php74-pear-Net_Nmap-1.0.5      Simple Wrapper Class for the Nmap Utility
+php74-pear-Net_POP3-1.3.8      Provides a POP3 class to access POP3 server
+php74-pear-Net_Ping-2.4.5      PEAR class to execute ping
+php74-pear-Net_Portscan-1.0.3  Provides an API for scanning ports
+php74-pear-Net_SMS-0.2.1       PEAR SMS functionality
+php74-pear-Net_SMTP-1.10.0     PEAR class that provides an implementation of the SMTP protocol
+php74-pear-Net_Server-1.0.3    Generic server class
+php74-pear-Net_Sieve-1.4.5     PEAR class to handle talking to timsieved
+php74-pear-Net_SmartIRC-1.1.14 PEAR class for communication with IRC networks
+php74-pear-Net_Socket-1.2.2    PEAR Network Socket Interface
+php74-pear-Net_Traceroute-0.21.3 PEAR class to execute traceroute
+php74-pear-Net_URL-1.0.15      Easy parsing of URLs
+php74-pear-Net_URL2-2.2.1      PEAR Class for parsing and handling URL
+php74-pear-Net_URL_Mapper-0.9.1 Simple and flexible way to build nice URLs for web applications
+php74-pear-Net_UserAgent_Detect-2.5.2_1 PEAR class that determines the Web browser, version, and platform
+php74-pear-Net_UserAgent_Mobile-1.0.0 PEAR class that parses HTTP mobile user agent string
+php74-pear-Net_Vpopmaild-0.3.2 PEAR Class for accessing Vpopmail's vpopmaild daemon
+php74-pear-Net_Whois-1.0.6     Tool to query internet domain name services
+php74-pear-Numbers_Roman-1.0.2 PEAR methods for converting to and from Roman Numerals
+php74-pear-Numbers_Words-0.16.4 PEAR package provides methods for spelling numerals in words
+php74-pear-OLE-1.0.0.r3        PEAR class for reading and writing OLE containers
+php74-pear-PEAR_Info-1.9.2_2   Show Information about your PEAR install and its packages
+php74-pear-PEAR_PackageFileManager-1.7.2 PEAR class to maintain PEAR packages
+php74-pear-PEAR_PackageFileManager2-1.0.4 PEAR class to maintain PEAR packages
+php74-pear-PEAR_PackageFileManager_Plugins-1.0.4 The plugins for PEAR_PackageFileManager
+php74-pear-PHPTAL-1.3.0        XML/XHTML template library for PHP
+php74-pear-PHP_Archive-0.14.0  Create and Use PHP Archive files
+php74-pear-PHP_ArrayOf-0.2.1   Abstract class package to create arrays of specific element types
+php74-pear-PHP_Beautifier-0.1.15_1 PEAR beautifier for PHP
+php74-pear-PHP_CodeCoverage-5.2.2 Library that provides PHP code coverage information
+php74-pear-PHP_CodeSniffer-3.6.0 PHP Script Tokenises and Sniffs PHP and JavaScript code
+php74-pear-PHP_Compat-1.5.0    Provides missing functionality for older versions of PHP
+php74-pear-PHP_CompatInfo-1.9.0_5 PEAR class to find out the minimum version and extensions required
+php74-pear-PHP_Parser-0.2.2    PHP Grammar Parser
+php74-pear-PHP_ParserGenerator-0.1.7 Convert files from lemon parser to php5
+php74-pear-PHP_Shell-0.3.2_1   Interactive PHP Shell
+php74-pear-PHP_Timer-2.1.2     Utility class for timing
+php74-pear-PHP_TokenStream-1.4.11 Wrapper around PHP tokenizer extension
+php74-pear-PHP_UML-1.6.2       PEAR Class to Create UML Representation of PHP Code
+php74-pear-Pager-2.5.1         Data paging class
+php74-pear-Payment_DTA-1.4.3   PEAR class to create and handle DTA files used in Germany
+php74-pear-PhpDocumentor-1.4.4 Provides automatic documenting of php-api from the source
+php74-pear-SOAP-0.14.0         PEAR SOAP Client/Server for PHP
+php74-pear-SebastianBergmann_FinderFacade-1.2.3 Convenience wrapper for Symfony Finder component
+php74-pear-SebastianBergmann_Git-1.2.0_1 Simple wrapper for Git
+php74-pear-SebastianBergmann_PHPCPD-2.0.0 Copy/Paste Detector (CPD) for PHP code
+php74-pear-SebastianBergmann_PHPLOC-4.0.1 Tool for quickly measuring the size of a PHP project
+php74-pear-SebastianBergmann_Version-2.0.1 Managing the version number of Git-hosted PHP projects
+php74-pear-Services_Amazon-0.9.0 PHP interface to Amazon Product Advertising API
+php74-pear-Services_Amazon_S3-0.4.0 PHP API for Amazon S3 (Simple Storage Service)
+php74-pear-Services_Blogging-0.2.4 PHP interface to Blog
+php74-pear-Services_Compete-0.1.0 PHP interface to Compete SnapShop API
+php74-pear-Services_Delicious-0.6.0 PEAR Client for the del.icio.us web service
+php74-pear-Services_Digg-0.4.7_1 PHP interface to Digg's API
+php74-pear-Services_Facebook-0.2.14 PHP interface to Facebook's API
+php74-pear-Services_GeoNames-1.0.1 PHP5 Interface to the GeoNames Public API
+php74-pear-Services_Google-0.2.0 PHP interface to access the Google SOAP Web APIs
+php74-pear-Services_JSON-1.0.3 PHP implementation of json_encode/decode
+php74-pear-Services_OpenSearch-0.2.0 Search A9 OpenSearch compatible engines
+php74-pear-Services_Pingback-0.2.2 Pingback user-agent class
+php74-pear-Services_ShortURL-0.3.1 Abstract PHP5 interface for shortening and expanding short URLs
+php74-pear-Services_TinyURL-0.1.2 PHP interface to TinyURL's API
+php74-pear-Services_TwitPic-0.1.0 PHP Interface to TwitPic's API
+php74-pear-Services_Twitter-0.7.0 PHP interface to Twitter's API
+php74-pear-Services_W3C_CSSValidator-0.2.3 PHP interface to W3C CSS Validator API
+php74-pear-Services_W3C_HTMLValidator-1.0.0,1 Object Oriented Interface to the W3C HTML Validator service
+php74-pear-Services_Weather-1.4.6,1 PEAR interface to various online weather-services
+php74-pear-Services_Yadis-0.5.3 Implementation of the Yadis Specification 1.0 protocol for PHP5
+php74-pear-Services_Yahoo-0.2.0 Provides access to the Yahoo! Web Services
+php74-pear-Services_urlTea-0.1.0 PHP interface to urlTea's API
+php74-pear-Spreadsheet_Excel_Writer-0.9.4 PEAR class for writing Microsoft Excel files
+php74-pear-Structures_DataGrid-0.9.3 Full-featured tabular structured data management package
+php74-pear-Structures_DataGrid_DataSource_Array-0.1.4 DataSource driver using arrays
+php74-pear-Structures_DataGrid_DataSource_CSV-0.1.6 DataSource driver using CSV files
+php74-pear-Structures_DataGrid_DataSource_DB-0.1.1 DB datasource driver for pear-Structures_DataGrid
+php74-pear-Structures_DataGrid_DataSource_PDO-0.2.0 DataSource driver using PHP Data Objects (PDO) and an SQL query
+php74-pear-Structures_DataGrid_Renderer_CSV-0.1.4 Renderer driver that generates a CSV string
+php74-pear-Structures_DataGrid_Renderer_Console-0.1.1 Console_Table Renderer for pear-Structures_DataGrid
+php74-pear-Structures_DataGrid_Renderer_Flexy-0.1.4 Renderer for pear-Structures_DataGrid using HTML_Template_Flexy
+php74-pear-Structures_DataGrid_Renderer_HTMLSortForm-0.1.3 HTMLSortForm Renderer for pear-Structures_DataGrid
+php74-pear-Structures_DataGrid_Renderer_HTMLTable-0.1.6 HTML_Table Renderer for pear-Structures_DataGrid
+php74-pear-Structures_DataGrid_Renderer_Pager-0.1.3 Renderer driver using PEAR::Pager
+php74-pear-Structures_DataGrid_Renderer_Smarty-0.1.5 Smarty Renderer for pear-Structures_DataGrid
+php74-pear-Structures_DataGrid_Renderer_XLS-0.1.3 Renderer driver that generates a XLS string
+php74-pear-Structures_DataGrid_Renderer_XML-0.1.3 Renderer driver that generates a XML string
+php74-pear-Structures_DataGrid_Renderer_XUL-0.1.3 XUL Renderer for pear-Structures_DataGrid
+php74-pear-Structures_LinkedList-0.2.2 Implements singly and doubly-linked lists
+php74-pear-Symfony_Component_Console-2.4.4 Symfony2 Console Component
+php74-pear-Symfony_Component_Finder-2.4.4 Symfony2 Finder Component
+php74-pear-Symfony_Component_Yaml-2.4.4 Symfony2 Yaml Component
+php74-pear-System_Command-1.0.8 PEAR command line execution interface
+php74-pear-Testing_Selenium-0.4.4 PEAR Binding - Once more unto the breach
+php74-pear-Text_Diff-1.2.2     Engine for performing and rendering text diffs
+php74-pear-Text_Figlet-1.0.2   Render text using FIGlet fonts
+php74-pear-Text_Highlighter-0.8.0 PEAR Syntax highlighting
+php74-pear-Text_Password-1.2.1 PEAR random password creator
+php74-pear-Text_Spell_Audio-0.1.0 Generate a sound clip saying the contents of a string of characters
+php74-pear-Text_Template-2.0.4 Simple template engine
+php74-pear-Text_Wiki-1.2.1     Abstracts parsing and rendering rules for Wiki markup
+php74-pear-TheSeer_DirectoryScanner-1.3.2 Recursive directory scanner and filter
+php74-pear-TheSeer_fDOMDocument-1.6.6 Extension to PHP standard DOM
+php74-pear-TheSeer_fXSL-1.1.0  XSL wrapper / extension to the PHP 5.x XSLTProcessor
+php74-pear-Translation2-2.0.4,1 PEAR class for multilingual applications management
+php74-pear-UDDI-0.2.4          PEAR UDDI for PHP
+php74-pear-URI_Template-0.3.3  Parser for URI Templates
+php74-pear-VFS-0.3.0           PEAR Virtual File System API
+php74-pear-Validate-0.8.6      PEAR Validation class
+php74-pear-Validate_AU-0.1.4_1 PEAR data validation class for Australia
+php74-pear-Validate_Finance-0.5.6 PEAR Finance Validation class
+php74-pear-Validate_Finance_CreditCard-0.7.0 PEAR CreditCard Validation class
+php74-pear-Validate_ISPN-0.8.0 Validation class for ISPN (International Standard Product Numbers)
+php74-pear-Validate_US-0.5.5   PEAR data validation class for US
+php74-pear-Var_Dump-1.0.4_1    Provides methods for dumping structured information about a variable
+php74-pear-VersionControl_Git-0.5.0 OO interface to handle Git repository
+php74-pear-VersionControl_SVN-0.5.2 Wrapper interface for the Subversion command-line client
+php74-pear-XML_Beautifier-1.2.2 PEAR class to format XML documents
+php74-pear-XML_DTD-0.5.2       Parsing of DTD files and DTD validation of XML files
+php74-pear-XML_Feed_Parser-1.0.5 Providing a unified API for handling Atom/RSS
+php74-pear-XML_GRDDL-0.2.0     PHP library for dealing with GRDDL
+php74-pear-XML_HTMLSax-2.1.2   PEAR SAX parser for HTML and other badly formed XML documents
+php74-pear-XML_NITF-1.1.1      PEAR NITF XML parser
+php74-pear-XML_Parser-1.3.8    PEAR XML parsing class based on PHP's bundled expat
+php74-pear-XML_Query2XML-1.7.2 PEAR class transform SQL queries into XML data
+php74-pear-XML_RPC-1.5.5       PHP implementation of the XML-RPC protocol
+php74-pear-XML_RPC2-1.1.4      XML-RPC client/server library
+php74-pear-XML_RSS-1.1.0       PEAR RSS parser
+php74-pear-XML_SVG-1.1.0       PEAR object-oriented API for building SVG documents
+php74-pear-XML_Serializer-0.21.0 PEAR Swiss-army knive for reading and writing XML files
+php74-pear-XML_Transformer-1.1.2 PEAR XML Transformations in PHP
+php74-pear-XML_Tree-1.1_2      PEAR class for representing XML data in a tree structure
+php74-pear-XML_Util-1.4.5      PEAR XML utility class
+php74-pear-XML_Wddx-1.0.2      PEAR Wddx pretty serializer and deserializer
+php74-pear-YAML-1.0.6          The Symfony YAML Component
+php74-pear-channel-doctrine-20130618 PEAR channel pear.doctrine-project.org
+php74-pear-channel-ezc-20060124 PEAR channel components.ez.no
+php74-pear-channel-geshi-20180906 PEAR channel pear.geshi.org
+php74-pear-channel-horde-20160602 PEAR channel pear.horde.org
+php74-pear-channel-htmlpurifier.org-20140120_1 PEAR channel htmlpurifier.org
+php74-pear-channel-openpear-20111203 PEAR channel openpear.org
+php74-pear-channel-pdepend-20100520 PEAR channel pear.pdepend.org
+php74-pear-channel-phing-20120813 PEAR channel pear.phing.info
+php74-pear-channel-phpdoc-20120214 PEAR channel pear.phpdoc.org
+php74-pear-channel-phpmd-20120607 PEAR channel pear.phpmd.org
+php74-pear-channel-pirum-20110921_1 PEAR channel pear.pirum-project.org
+php74-pear-channel-symfony-20110701 PEAR channel pear.symfony-project.com
+php74-pear-channel-symfony2-20110826_2 PEAR channel pear.symfony.com
+php74-pear-channel-theseer-20120501_1 PEAR channel pear.netpirates.net
+php74-pear-channel-twig-20140108 PEAR channel pear.twig-project.org
+php74-pear-codegen-1.0.7       Tool to create code generators that operate on XML descriptions
+php74-pear-doctrine-DoctrineCommon-2.3.0 Shared code for Doctrine PHP object relational mapper
+php74-pear-doctrine-DoctrineDBAL-2.3.4 Database abstraction layer used to power the ORM package
+php74-pear-ezc_Base-1.8        Base package that all ezc components packages rely on
+php74-pear-ezc_ConsoleTools-1.6.1 Set of classes to do different actions with the console
+php74-pear-geshi-geshi-1.0.9.0 Generic syntax highlighter written in PHP
+php74-pear-horde-Horde_ActiveSync-2.41.4 Horde ActiveSync Server Library
+php74-pear-horde-Horde_Alarm-2.2.10 PEAR Horde alarm libraries
+php74-pear-horde-Horde_Argv-2.1.0 Horde command-line argument parsing package
+php74-pear-horde-Horde_Auth-2.2.2 Horde Authentication API
+php74-pear-horde-Horde_Autoloader-2.1.2 Horde Autoloader
+php74-pear-horde-Horde_Autoloader_Cache-2.1.3 Horde Autoloader Cache
+php74-pear-horde-Horde_Browser-2.0.16 Horde Browser API
+php74-pear-horde-Horde_Cache-2.5.5 Horde Caching API
+php74-pear-horde-Horde_Cli-2.3.0 Horde Command Line Interface API
+php74-pear-horde-Horde_Compress-2.2.3 Horde Compression API
+php74-pear-horde-Horde_Compress_Fast-1.1.1 Horde Fast Compression Library
+php74-pear-horde-Horde_Constraint-2.0.3 Horde Constraint library
+php74-pear-horde-Horde_Controller-2.0.5 Horde Controller libraries
+php74-pear-horde-Horde_Core-2.31.14 Horde Core Framework libraries
+php74-pear-horde-Horde_CssMinify-1.0.4 Horde CSS Minification
+php74-pear-horde-Horde_Css_Parser-1.0.11 Horde CSS Parser
+php74-pear-horde-Horde_Data-2.1.5 Horde Data API
+php74-pear-horde-Horde_Date-2.4.1 Horde Date package
+php74-pear-horde-Horde_Date_Parser-2.0.7 Horde Date Parser
+php74-pear-horde-Horde_Dav-1.1.4 Horde library for WebDAV, CalDAV, CardDAV
+php74-pear-horde-Horde_Db-2.4.0_2 Horde Database Libraries
+php74-pear-horde-Horde_Editor-2.0.5 Horde Editor API
+php74-pear-horde-Horde_Exception-2.0.8 Horde Exception Handler
+php74-pear-horde-Horde_Feed-2.0.4 Horde Feed libraries
+php74-pear-horde-Horde_Form-2.0.20 Horde Form API
+php74-pear-horde-Horde_Group-2.1.1 Horde User Groups System
+php74-pear-horde-Horde_HashTable-1.2.6 Horde Hash Table Interface
+php74-pear-horde-Horde_History-2.3.6 Horde API for tracking the history of an object
+php74-pear-horde-Horde_Http-2.1.7 Horde HTTP libraries
+php74-pear-horde-Horde_Icalendar-2.1.8 Horde iCalendar API
+php74-pear-horde-Horde_Idna-1.1.2 Horde IDNA backend normalization package
+php74-pear-horde-Horde_Imsp-2.0.10 Horde IMSP API
+php74-pear-horde-Horde_Injector-2.0.5 Horde dependency injection container
+php74-pear-horde-Horde_Itip-2.1.2 Horde iTip invitation response handling
+php74-pear-horde-Horde_JavascriptMinify-1.1.5 Horde Javascript Minification
+php74-pear-horde-Horde_Kolab_Format-2.0.9 Horde library for reading/writing Kolab data formats
+php74-pear-horde-Horde_Kolab_Session-2.0.3 Horde library for managing an active Kolab session
+php74-pear-horde-Horde_Kolab_Storage-2.2.4 Horde library for handling Kolab data stored on an IMAP server
+php74-pear-horde-Horde_Ldap-2.4.2 Horde LDAP libraries
+php74-pear-horde-Horde_ListHeaders-1.2.5 Horde List Headers Parsing Library
+php74-pear-horde-Horde_Lock-2.1.4 Horde Resource Locking System
+php74-pear-horde-Horde_LoginTasks-2.0.7 Horde Login Tasks System
+php74-pear-horde-Horde_Mail-2.6.5 Horde Mail Library
+php74-pear-horde-Horde_Mail_Autoconfig-1.0.3 Horde Mail Autoconfiguration
+php74-pear-horde-Horde_Memcache-2.1.1_1 Horde Memcache API
+php74-pear-horde-Horde_Mime-2.11.0 Horde MIME Library
+php74-pear-horde-Horde_Mime_Viewer-2.2.2 Horde MIME Viewer Library
+php74-pear-horde-Horde_Mongo-1.1.0 Horde Mongo Configuration
+php74-pear-horde-Horde_Nls-2.2.1_1 Horde Native Language Support
+php74-pear-horde-Horde_Notification-2.0.4 Horde Notification System
+php74-pear-horde-Horde_Oauth-2.0.4 Horde OAuth client/server
+php74-pear-horde-Horde_Pack-1.0.7 Horde Pack Utility
+php74-pear-horde-Horde_Pdf-2.0.8 Horde PDF library
+php74-pear-horde-Horde_Perms-2.1.8 Horde Permissions System
+php74-pear-horde-Horde_Prefs-2.9.0 Horde Preferences API
+php74-pear-horde-Horde_Queue-1.1.5 Horde Queue
+php74-pear-horde-Horde_Rdo-2.1.0 Horde Rampage Data Objects
+php74-pear-horde-Horde_Role-1.0.1 PEAR installer role for Horde components
+php74-pear-horde-Horde_Routes-2.0.5 Horde Routes URL mapping system
+php74-pear-horde-Horde_Rpc-2.1.9 Horde RPC API
+php74-pear-horde-Horde_Scheduler-2.0.3 Horde Scheduler System
+php74-pear-horde-Horde_Scribe-2.0.3 Horde Scribe client
+php74-pear-horde-Horde_Secret-2.0.6 Secret Encryption API
+php74-pear-horde-Horde_Serialize-2.0.5 Horde Data Encapulation API
+php74-pear-horde-Horde_Service_Facebook-2.0.10 Horde Facebook client
+php74-pear-horde-Horde_Service_Gravatar-1.0.1 Horde API accessor for gravatar.com
+php74-pear-horde-Horde_Service_Twitter-2.1.6 Horde Twitter client
+php74-pear-horde-Horde_Service_UrlShortener-2.0.3 Horde URL shortening services interface
+php74-pear-horde-Horde_Service_Weather-2.5.4 Horde Weather Provider
+php74-pear-horde-Horde_SessionHandler-2.2.9 Horde Session Handler API
+php74-pear-horde-Horde_Share-2.2.0 Horde Shared Permissions System
+php74-pear-horde-Horde_Socket_Client-2.1.3 Horde Socket Client
+php74-pear-horde-Horde_SpellChecker-2.1.3 Horde Spellcheck API
+php74-pear-horde-Horde_Stream-1.6.3 Horde stream handler
+php74-pear-horde-Horde_Stream_Filter-2.0.4 Horde Stream filters
+php74-pear-horde-Horde_Stream_Wrapper-2.1.4 Horde Stream wrappers
+php74-pear-horde-Horde_Support-2.2.0 Horde support package
+php74-pear-horde-Horde_SyncMl-2.0.7 Horde API for processing SyncML requests
+php74-pear-horde-Horde_Template-2.0.3 Horde Template System
+php74-pear-horde-Horde_Text_Diff-2.2.1 Horde engine for performing and rendering text diffs
+php74-pear-horde-Horde_Text_Filter-2.3.6 Horde Text Filter API
+php74-pear-horde-Horde_Text_Filter_Csstidy-2.0.1 Horde Text Filter CSS optimization class
+php74-pear-horde-Horde_Text_Flowed-2.0.4 Horde API for flowed text as per RFC 3676
+php74-pear-horde-Horde_Thrift-2.0.3 Horde Thrift Client
+php74-pear-horde-Horde_Timezone-1.1.0 Horde timezone library
+php74-pear-horde-Horde_Token-2.0.9 Horde Token API
+php74-pear-horde-Horde_Translation-2.2.2 Horde translation library
+php74-pear-horde-Horde_Tree-2.0.5 Horde Tree API
+php74-pear-horde-Horde_Url-2.2.6 Horde URL class
+php74-pear-horde-Horde_Util-2.5.9 Horde Utility Libraries
+php74-pear-horde-Horde_View-2.0.6 Horde View API
+php74-pear-horde-Horde_Xml_Element-2.0.4 Horde Xml Element object
+php74-pear-horde-Horde_Xml_Wbxml-2.0.4 Horde API for encoding and decoding WBXML documents
+php74-pear-htmlpurifier-4.9.2_1 PHP HTML filter library
+php74-pear-pdepend_staticReflection-1.0.0 staticReflection package for PHP
+php74-pear-phing-2.6.1         PHP project build system based on Apache Ant
+php74-pear-pirum-Pirum-1.1.5   Simple PEAR channel server manager
+php74-pear-twig-twig-1.29.0    Flexible, fast, and secure template engine for PHP
+php74-pecl-APCu-5.1.20         APC User Caching
+php74-pecl-APCu_bc-1.0.5       APCu Backwards Compatibility Module
+php74-pecl-amqp-1.10.2         PHP extension for AMQP API
+php74-pecl-ast-1.0.14          Extension exposing PHP 7 abstract syntax tree
+php74-pecl-bitset-3.0.1        PECL extension for manipulating bitsets
+php74-pecl-couchbase-2.6.2     Couchbase Server PHP extension
+php74-pecl-crypto-0.3.1_2      Objective wrapper for OpenSSL Crypto Library
+php74-pecl-dio-0.2.0           PECL extension that provides direct access to low level IO
+php74-pecl-ds-1.3.0            Data Structures for PHP
+php74-pecl-eio-2.0.4           Provides interface to the libeio library
+php74-pecl-ev-1.1.5            Libev extension for PHP
+php74-pecl-event-3.0.6         Provides interface to libevent library
+php74-pecl-expect-0.4.0_2      PHP extension for expect library
+php74-pecl-gnupg-1.5.0         PECL wrapper around the gpgme library
+php74-pecl-grpc-1.41.0         High performance, general RPC framework
+php74-pecl-horde_lz4-1.0.10_1  Horde LZ4 Compression Extension for php
+php74-pecl-hrtime-0.6.0        High resolution timing for PHP
+php74-pecl-http-3.2.4_1        Extended HTTP Support
+php74-pecl-igbinary-3.2.6      Replacement for the standard PHP serializer
+php74-pecl-imagick-3.5.1       PHP wrapper to the ImageMagick/GraphicsMagick library version 6
+php74-pecl-imagick-im7-3.5.1   PHP wrapper to the ImageMagick/GraphicsMagick library version 7
+php74-pecl-inotify-3.0.0       Inotify bindings for PHP
+php74-pecl-jsmin-3.0.0         PHP extension for minifying JavaScript
+php74-pecl-json_post-1.0.2     JSON POST handler in PHP
+php74-pecl-jsond-1.4.0         JavaScript Object Notation in PHP
+php74-pecl-krb5-1.1.4          PECL classes for PAM integration
+php74-pecl-leveldb-0.3.0       PHP bindings for Google LevelDB
+php74-pecl-libsodium-2.0.23    PHP wrapper for the Sodium cryptographic library
+php74-pecl-lzf-1.6.8           Handles LZF de/compression
+php74-pecl-mailparse-3.1.2     PECL extension to create and decode MIME messages
+php74-pecl-mcrypt-1.0.4        PHP extension for mcrypt, removed in PHP 7.2
+php74-pecl-memcache-8.0        Memcached extension
+php74-pecl-memcached-3.1.5_1   PHP extension for interfacing with memcached via libmemcached library
+php74-pecl-mongodb-1.9.1       PECL classes for MongoDB
+php74-pecl-mosquitto-0.4.0     Extension for libmosquitto
+php74-pecl-msgpack-2.1.2       Provides API for communicating with MessagePack serialization
+php74-pecl-mustache-0.9.2      Mustache templating language
+php74-pecl-oauth-2.0.7         Php interface to the OAuth Protocol
+php74-pecl-pam-2.2.3           PECL classes for PAM integration
+php74-pecl-pkcs11-1.0          PKCS11 bindings for PHP
+php74-pecl-proctitle-0.1.2_1   PECL extension that allows changing the current process' name
+php74-pecl-propro-2.1.0        Facility to manage extension object properties
+php74-pecl-protobuf-3.18.0     PHP binding for Protocol buffers
+php74-pecl-psr-1.1.0           Provides accepted PSR interfaces
+php74-pecl-qrencode-0.7        PECL extension for generate qrcode
+php74-pecl-radius-1.4.0b1_1    Radius client library for PHP
+php74-pecl-raphf-2.0.1_1       Resource and persistent handles factory
+php74-pecl-rar-4.2.0           PECL extension to create and read RAR files
+php74-pecl-rdkafka-4.0.4       Kafka client for PHP
+php74-pecl-redis-5.3.2         Extension to access Redis
+php74-pecl-rrd-2.0.1_1         PHP bindings to rrd tool system
+php74-pecl-runkit7-4.0.0a2     Extension to replace, rename, and remove user functions and classes
+php74-pecl-scrypt-1.4.2        PHP wrapper to Colin Percival's scrypt implementation
+php74-pecl-smbclient-1.0.6     Smbclient wrapper extension
+php74-pecl-solr-2.5.1          PHP extension for Apache Solr
+php74-pecl-ssh2-1.3.1          PECL extension to the libssh2 library
+php74-pecl-stats-2.0.3         PECL extension with routines for statistical computation
+php74-pecl-stomp-2.0.2         PECL extension of stomp client
+php74-pecl-swoole-4.7.1        Asynchronous, concurrent, and distributed networking framework
+php74-pecl-sync-1.1.0          Named and unnamed synchronization objects in PHP
+php74-pecl-timezonedb-2021.1   Timezone Database to be used with PHP date and time functions
+php74-pecl-uploadprogress-1.1.3 Provides track progress of a file upload
+php74-pecl-uuid-1.1.0          UUID extension in PHP
+php74-pecl-uv-0.2.4_1          PHP wrapper for libuv
+php74-pecl-vips-1.0.10_1       PHP bindings for libvips
+php74-pecl-vld-0.17.1          Dump the internal representation of PHP scripts
+php74-pecl-xdebug-3.0.4        Xdebug extension for PHP
+php74-pecl-xdiff-2.1.0         PECL extension to create/apply binary and text patches
+php74-pecl-yac-2.2.1,1         Shared memory user data cache for PHP
+php74-pecl-yaconf-1.1.0        PHP Persistent Configurations Container
+php74-pecl-yaf-3.3.3           MVC framework written as a C PHP extension
+php74-pecl-yaml-2.2.1          YAML-1.1 parser and emitter
+php74-pecl-yar-2.2.0           Yar (Yet another RPC framework) is a light, concurrent RPC framework
+php74-pecl-zmq-1.1.3_3         PHP bindings for ZeroMQ
+php74-pecl-zookeeper-1.0.0     PHP extension for interfacing with Apache ZooKeeper
+php74-pgsql-7.4.26             The pgsql shared extension for php
+php74-phalcon4-4.1.1           Phalcon PHP Framework written in C-language
+php74-phar-7.4.26              The phar shared extension for php
+php74-posix-7.4.26             The posix shared extension for php
+php74-pspell-7.4.26            The pspell shared extension for php
+php74-readline-7.4.26          The readline shared extension for php
+php74-session-7.4.26           The session shared extension for php
+php74-shmop-7.4.26             The shmop shared extension for php
+php74-simplexml-7.4.26         The simplexml shared extension for php
+php74-snappy-0.2.1             PHP extension for the snappy compression algorithm
+php74-snmp-7.4.26              The snmp shared extension for php
+php74-snuffleupagus-0.7.0      Security module for PHP 7+
+php74-soap-7.4.26              The soap shared extension for php
+php74-sockets-7.4.26           The sockets shared extension for php
+php74-sodium-7.4.26            The sodium shared extension for php
+php74-sqlite3-7.4.26           The sqlite3 shared extension for php
+php74-sysvmsg-7.4.26           The sysvmsg shared extension for php
+php74-sysvsem-7.4.26           The sysvsem shared extension for php
+php74-sysvshm-7.4.26           The sysvshm shared extension for php
+php74-tarantool-0.3.3          PECL PHP driver for Tarantool
+php74-tidy-7.4.26              The tidy shared extension for php
+php74-tokenizer-7.4.26         The tokenizer shared extension for php
+php74-xapian-1.4.18            PHP binding for Xapian
+php74-xml-7.4.26               The xml shared extension for php
+php74-xmlreader-7.4.26         The xmlreader shared extension for php
+php74-xmlrpc-7.4.26            The xmlrpc shared extension for php
+php74-xmlwriter-7.4.26         The xmlwriter shared extension for php
+php74-xsl-7.4.26               The xsl shared extension for php
+php74-zip-7.4.26               The zip shared extension for php
+php74-zlib-7.4.26              The zlib shared extension for php
+php74-zstd-0.9.0               Zstandard extension for PHP
+phpMyAdmin-php74-4.9.7         Set of PHP-scripts to manage MySQL over the web
+phpMyAdmin5-php74-5.1.1        Set of PHP-scripts to manage MySQL over the web
+phpldapadmin-php74-1.2.6.2     PHP application to administer LDAP over the web
+phplist-php74-3.6.3_1          Full-featured open-source newsletter manager
+phppgadmin-php74-7.13.0        Web Based Postgres Administration
+phpunit6-php74-6.5.14          Testing framework for unit tests
+phpunit7-php74-7.5.20          Testing framework for unit tests
+phpunit8-php74-8.5.20          Testing framework for unit tests
+phpunit9-php74-9.5.10          Testing framework for unit tests
+rainloop-community-php74-1.16.0_1 Modern and interactive webmail - community edition
+roundcube-automatic_addressbook-php74-0.4.3 Roundcube webmail automatic addressbook plugin
+roundcube-calendar-kolab-php74-3.5.5 Roundcube Calendar plugin from Kolab
+roundcube-carddav-php74-4.0.4  Roundcube CardDAV plugin
+roundcube-contextmenu-php74-3.2.1 RoundCube webmail contextmenu plugin
+roundcube-html5_notifier-php74-0.6.4 HTML5 desktop notifier plugin for roundcube
+roundcube-identity_smtp-php74-20170914 Roundcube plugin to setup different SMTP settings per identity
+roundcube-login_info-php74-1.2_1 Roundcube login info plugin
+roundcube-mobilecube-php74-3.1.0.030110A Theme for RoundCube Web Mail
+roundcube-mvision2-php74-2_1   Theme for RoundCube Web Mail
+roundcube-php74-1.4.12,1       Fully skinnable XHTML/CSS webmail written in PHP
+roundcube-sauserprefs-php74-1.10_1 Roundcube plugin to manage SpamAssassin prefs
+roundcube-thunderbird_labels-php74-1.4.10 Thunderbird Labels plugin for RoundCube webmail
+roundcube-umich-php74-20090813 Theme for RoundCube Web Mail
+roundcube-veximaccountadmin-php74-0.1_2 Roundcube vexim account admin plugin
+roundcube-yubikey_auth-php74-g20180404 Roundcube yubikey auth plugin
+self-service-password-php74-1.4_1 Set of PHP-scripts to change LDAP password over the web
+smarty-php74-2.6.31            PHP compiling template engine
+smarty3-php74-3.1.34           PHP compiling template engine
+squirrelmail-abook_import_export-plugin-php74-1.1_2 Allows for the importing of addressbooks from a CSV (comma separated values) file
+squirrelmail-askuserinfo-plugin-php74-1.1_2 Ask user to enter Full name and Email address at initial logon
+squirrelmail-avelsieve-plugin-php74-1.9.9 SquirrelMail plugin for Server-Side Mail Filtering management
+squirrelmail-calendar_file_backend-plugin-php74-1.0_3 File backend for SquirrelMail Calendar plugin
+squirrelmail-change-sqlpass-plugin-php74-3.3_3 Allows users to change their passwords stored in a SQL database
+squirrelmail-change_ldappass-plugin-php74-2.2_6 Allows users to change their passwords stored in LDAP Tree
+squirrelmail-check-quota-plugin-php74-2.2_3 Check/display users' mail quota (filesystem, IMAP-based, and cPanel)
+squirrelmail-compatibility-plugin-php74-2.0.16_1 Required by many plugins for compatibility with SquirrelMail
+squirrelmail-email_footer-plugin-php74-0.6_1 Automatically appends footer to SquirrelMail-generated emails
+squirrelmail-login_auth-plugin-php74-3.0_2 Automatically log in user based on HTTP authentication
+squirrelmail-login_notes-plugin-php74-1.2_2 Place notes on the login screen
+squirrelmail-mark_read-plugin-php74-1.4.2_4 Provides one-click link to mark read/unread all mails in a folder
+squirrelmail-multilogin-plugin-php74-2.4_3 Allows manual selection of login server on login page
+squirrelmail-notes-plugin-php74-1.2_3 Allows you to create notes
+squirrelmail-notify-plugin-php74-1.3_3 Notify when new mail arrives
+squirrelmail-password_forget-plugin-php74-2.3 Prevent reuse of login details by browsers at public terminals
+squirrelmail-php74-20200422    Webmail system which accesses mail over IMAP
+squirrelmail-plugins-php74-1.0_2 "meta-port" to install SquirrelMail plugins
+squirrelmail-pupdate-plugin-php74-0.7_4 Checks for plugin updates by parsing the SM site
+squirrelmail-qmailadmin_login-plugin-php74-1.1_4 Using the QmailAdmin cgi interface from SquirrelMail
+squirrelmail-quota_usage-plugin-php74-1.3.1_3 View quota and current usage
+squirrelmail-sasql-plugin-php74-3.2.0_3 Edit SpamAssassin settings stored in an SQL DB
+squirrelmail-secure_login-plugin-php74-1.4_3 Automatically turn on SSL security during login
+squirrelmail-shared_calendars-plugin-php74-2.0.1_3 iCal-compliant calendaring for SquirrelMail
+squirrelmail-spam-buttons-plugin-php74-2.3.1_2 Provides buttons with customizable action (for reporting spam, etc.)
+squirrelmail-squirrel_logger-plugin-php74-2.3_2 Logging functionality for your webmail interface
+squirrelmail-timeout_user-plugin-php74-1.1.1_5 Automatically logs a user out if they're idle for a set amount of time
+squirrelmail-translations-php74-20200422 NLS translations for Squirrelmail (mail/squirrelmail)
+squirrelmail-unsafe_image_rules-plugin-php74-0.8_3 Determines what unsafe (web) images will be shown
+squirrelmail-user_special_mailboxes-plugin-php74-0.1_3 Lets define folders to be displayed at the top of the folders list
+squirrelmail-vlogin-plugin-php74-3.10.2_2 Adds multi-site-hosting capabilities to SquirrelMail
+squirrelmail-web_search-plugin-php74-0.1.6_4 Plugin for Websearch
+squirrelmail-wetteronline-plugin-php74-0.1_3 Plugin for the weather in Germany
+suphp-php74-0.7.2_2            Securely execute PHP scripts under Apache
+typo3-10-php74-10.4.16         Typo3 content management system
+typo3-9-php74-9.5.27           Typo3 content management system
+unit-php74-1.25.0              PHP module for NGINX Unit
+websvn-php74-2.6.0             Online Subversion repository browser
+zenphoto-php74-1.5.9           Simpler web photo gallery

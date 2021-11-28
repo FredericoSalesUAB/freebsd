@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+#
+# sysrc bastille_list="azkaban arkham alcatraz" ( rc.conf)
+#
+
+sysrc bastille_enable=YES;
+sysrc cloned_interfaces+=lo1;
+sysrc ifconfig_lo1_name="bastille0";
+service netif cloneup
+cp bastille.conf /usr/local/etc/bastille/;
+bastille bootstrap 13.0-RELEASE;
